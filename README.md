@@ -182,7 +182,7 @@ The app is configured for GitHub Pages deployment:
 
 4. **Access the deployed app**
    ```
-   [https://WilsonNdiko.github.io/MyFrontEndTechnicalTestResult/](https://wilsonndiko.github.io/MyFrontEndTechnicalTestResult/#/login)
+   https://wilsonndiko.github.io/MyFrontEndTechnicalTestResult/#/login
    ```
 
 ## 🔍 Key Assumptions

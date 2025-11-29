@@ -232,17 +232,4 @@ This is a test project. Feel free to fork and modify as needed.
 
 ---
 
-**Questions or Issues?** Check the GitHub repository for more information.
-
-- `src/views/`: Page components (Login, Products, View Product, Add Product)
-- `src/stores/`: Pinia stores (auth.js, products.js)
-- `src/router/`: Routing configuration with guards
-- Uses Composition API throughout
-
-## Notes
-
-- App uses localStorage for authentication persistence
-- Product search filters by title
-- All product mutations require authentication
-- Responsive design works on desktop and mobile
-# Updated 11/29/2025 22:42:53
+**Last Updated**: November 29, 2025

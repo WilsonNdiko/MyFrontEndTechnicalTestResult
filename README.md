@@ -224,7 +224,7 @@ This project is part of a technical test assessment.
 
 ## 👤 Author
 
-Created by [Your Name/Wilson Ndiko]
+Created by Wilson Ndiko
 
 ## 🤝 Contributing
 
